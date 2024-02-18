@@ -11,7 +11,7 @@ require_once('html/header.php');
 ?>
 
 
-<h2>MASTER</h2>
+<h2>MASTER PAGE</h2>
 
 
 <?php
